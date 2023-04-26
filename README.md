@@ -26,11 +26,13 @@ That said if you'd like to continue with my example, feel free to use the text s
 * "You get attacked by an angry trout. Game Over."
 * "You fell into a hole. Game Over."
 
-# Extensions
+Extensions
 
 [You can also add your own ASCII art](https://ascii.co.uk/art). Just remember to add three single quotes `'''` at the start and at the end of your artwork to turn it into a multi-line string. 
 
 
 Solution
+
+![Image](https://github.com/WendyOkoli/Treasure-Island-Game/blob/main/Images/Treasure_Island_Image.png)
 
 [https://replit.com/@WendyOkoli/Treasure-Island-Game](https://replit.com/@WendyOkoli/Treasure-Island-Game)
